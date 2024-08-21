@@ -14,5 +14,4 @@ This is an ongoing project, much of the analysis is not done yet! I am still wor
 Thank you for being interested and following along!
 
 Best,
-
 Lucy Wang 
