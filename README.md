@@ -2,8 +2,9 @@
 
 Welcome to my GitHub Repository for the Browne Leadership Fellowship. 
 
-Hello, I'm Lucy! I was accepted into the Browne Leadership Fellowship at the University of Pittsburgh - School of Social Work in November 2023. I was placed with Assemble, located in Garfield, PA. At Assemble, I worked as a teacher with the Summer Camp programming for grades 1-9. I lead and co-taught lessons, prepared supplies for guest expert lessons, and helped re-organize and clean the studio space as the space transitioned from the Afterschool and Saturday Crafternoon programming to Summer Camp and Queer Craft Night. 
-At the end of the fellowship, each of the fellows had to organize a poster highlighting my experiences in our paired neighborhood. 
+Hello, I'm Lucy! I was accepted into the Browne Leadership Fellowship at the University of Pittsburgh - School of Social Work in November 2023. I was placed with Assemble, located in Garfield, PA. At Assemble, I worked as a teacher with the Summer Camp programming for grades 1-9. I led and co-taught lessons, prepared supplies for guest expert lessons, and volunteered at various off-site events, including an installation at the Carnegie Museum of Art!
+
+At the end of the Fellowship, each of the Fellows had to organize a poster highlighting my experiences in our paired neighborhood. 
 
 This is Repository contains all the data I used and code I wrote for my fall poster presentation and more! The code related to my poster presentation was solely for streamlining the data visualization.
 
